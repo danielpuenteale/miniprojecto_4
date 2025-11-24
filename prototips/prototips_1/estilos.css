@@ -1,0 +1,49 @@
+body {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+}
+.h1 {
+  width: 531px;
+  height: 208px;
+  margin-bottom: -250px;
+  margin-left: 200px;
+}
+.btw {
+  display: flex;
+  justify-content: space-between;
+  margin: 200px;
+  gap: 40px;
+}
+
+.foto1 {
+  width: 400px;
+  height: 345px;
+}
+
+.foto2 {
+  width: 400px;
+  height: 345px;
+}
+
+.foto3 {
+  width: 400px;
+  height: 345px;
+}
+
+.fondo {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.tamaño {
+  font-size: 25px;
+  color: grey;
+}
+
+.tamañonum {
+  font-size: 35px;
+  color: grey;
+}

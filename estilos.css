@@ -1,0 +1,14 @@
+.headerh1pcentro {
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+}
+
+.mainp {
+  display: flex;
+  margin-left: 480px;
+}
