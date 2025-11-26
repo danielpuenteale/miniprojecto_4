@@ -5,11 +5,19 @@ body {
 }
 
 .fondo {
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+  background-image: url();
 }
 * {
   border: red solid 1px;
+}
+.colorboton {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+.centro {
+  display: flex;
+  flex-direction: column;   
 }
