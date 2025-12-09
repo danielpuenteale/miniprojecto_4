@@ -22,3 +22,14 @@ header {
   display: flex;
   margin-left: 480px;
 }
+
+.img {
+  height: 250px;
+  border: 1px solid black;
+}
+
+.img123 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
