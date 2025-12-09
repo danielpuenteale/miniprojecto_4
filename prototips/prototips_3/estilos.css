@@ -1,23 +1,37 @@
-body {
-  background-color: grey;
-  display: flex;
-  justify-content: center;
-}
-
-.fondo {
-  background-image: url();
-}
 * {
   border: red solid 1px;
 }
 .colorboton {
   background-color: black;
   color: white;
-  border-radius: 10px;
+  border-radius: 50px;
   padding: 10px;
   margin: 10px;
 }
 .centro {
   display: flex;
-  flex-direction: column;   
+  flex-direction: column;
+}
+
+.textoh1 {
+  display: flex;
+  justify-content: center;
+}
+
+.textop {
+  display: flex;
+  justify-content: center;
+}
+
+.textob {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.columna {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
