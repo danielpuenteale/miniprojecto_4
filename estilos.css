@@ -1,11 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .headerh1pcentro {
   display: flex;
   justify-content: center;
+  margin: 0;
+  padding: 0;
+  padding: 8px;
 }
 
 header {
-  background-color: black;
+  background-color: #212121;
   color: white;
+  margin: 0;
+  padding: 0;
 }
 
 .mainp {
