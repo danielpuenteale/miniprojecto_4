@@ -20,7 +20,7 @@ header {
 
 .mainp {
   display: flex;
-  margin-left: 480px;
+  margin-left: 780px;
 }
 
 .img {
@@ -29,6 +29,12 @@ header {
 }
 
 .img123 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.img456 {
   display: flex;
   justify-content: center;
   gap: 20px;
