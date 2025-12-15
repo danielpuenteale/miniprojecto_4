@@ -33,3 +33,9 @@ header {
   justify-content: center;
   gap: 20px;
 }
+
+.img456 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
