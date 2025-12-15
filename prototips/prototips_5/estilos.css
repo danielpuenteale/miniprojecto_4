@@ -1,3 +1,60 @@
+body {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+}
+
+.fondo {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  
+}
 .img {
   display: flex;
+}
+.texto {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 70px;
+  font-family: "Avenir", sans-serif;
+  color: #252525cc;
+}
+
+.boton {
+  padding: 15px;
+  margin: auto;
+  border-radius: 15px;
+  background-color: #252525;
+  color: white;
+  width: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Avenir", sans-serif;
+  margin-left: 0px;
+}
+
+.imagen {
+  width: 716px;
+  height: 932px;
+  display: flex;
+  justify-content: left;
+  margin-top: 70px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h1{
+    font-size: 60px;
+    font-family: "Avenir", sans-serif;
+    color: #252525;
+    margin-right: 150px;
+}
+
+.p1{
+  font-size: 25px;
+  color: #252525cc;
 }
