@@ -1,7 +1,23 @@
-.fondo{
-  
+body {
+  justify-content: center;
+  display: flex;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
 }
-.boton{
+
+.contenedor {
+  width: 1440px;
+  height: 926px;
+  background-color: #2f2f2f;
+  display: flex;
+}
+
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.boton {
   background-color: white;
   color: black;
   border-radius: 20px;
@@ -9,8 +25,50 @@
   width: 100px;
 }
 
-.img
-{
+.img {
   display: flex;
   justify-content: right;
+}
+
+.p1 {
+  color: white;
+}
+
+.espacio {
+  margin-left: 100px;
+}
+
+.flex {
+  display: flex;
+}
+
+.espacio {
+  width: 449px;
+  height: 582px;
+  margin-left: 132px;
+  margin-top: 169px;
+  margin-bottom: 175px;
+}
+
+.cajah1 {
+  width: 370px;
+  height: 324px;
+}
+.cajah1 h1 {
+  font-weight: 700px;
+  font-size: 72px;
+
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.p{
+  width: 449px;
+  height: 144px;
+}
+
+.gap{
+  margin-top: 67px;
+  margin-bottom: 67px;
+
+  margin-right: 64px
 }
