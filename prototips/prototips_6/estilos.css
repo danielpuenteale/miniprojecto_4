@@ -74,9 +74,12 @@ body {
   margin-right: 64px;
 }
 
-.h1{
+.h1 {
   color: #fec3c7;
 }
-.h11{
+.h11 {
   color: #9ad7f3;
+}
+.h111 {
+  color: rgb(107, 223, 218)
 }
