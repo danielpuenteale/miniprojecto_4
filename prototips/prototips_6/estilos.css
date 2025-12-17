@@ -28,6 +28,8 @@ body {
 .img {
   display: flex;
   justify-content: right;
+  gap: 10px;
+  margin-top: 10px;
 }
 
 .p1 {
@@ -61,14 +63,20 @@ body {
   line-height: 100%;
   letter-spacing: 0%;
 }
-.p{
+.p {
   width: 449px;
   height: 144px;
 }
 
-.gap{
+.gap {
   margin-top: 67px;
   margin-bottom: 67px;
+  margin-right: 64px;
+}
 
-  margin-right: 64px
+.h1{
+  color: #fec3c7;
+}
+.h11{
+  color: #9ad7f3;
 }
