@@ -4,6 +4,9 @@ body {
   font-family: Arial, sans-serif;
 }
 
+main {
+  background-color: #f0f0f0;
+}
 header {
   background-color: #212121;
   color: white;
@@ -14,13 +17,11 @@ header {
   display: flex;
   justify-content: center;
   margin: 0;
-  padding: 5px;
+  padding: 10px;
 }
 
 .mainp {
   text-align: center;
-  margin: 20px auto;
-  max-width: 800px;
 }
 
 .imagenes {
@@ -57,4 +58,11 @@ header {
 .img1 p {
   margin-top: 10px;
   font-weight: bold;
+}
+.alumno {
+  font-size: 18px;
+}
+
+.texto2 {
+  margin-left: -220px;
 }
