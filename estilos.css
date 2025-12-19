@@ -32,7 +32,8 @@ header {
 }
 
 .img123,
-.img456 {
+.img456,
+.img789 {
   display: flex;
   justify-content: center;
   gap: 30px;
