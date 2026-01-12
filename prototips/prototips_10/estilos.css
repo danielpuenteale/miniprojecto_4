@@ -3,7 +3,7 @@ body {
   justify-content: center;
 }
 
-.pagina {
+.primerapagina{
   display: flex;
   background-image: url(images_10/fondo.png);
   background-size: cover;
@@ -14,10 +14,10 @@ body {
 
 .contenido {
   width: 794px;
-  height: 414px;
+  height: 420px;
   opacity: 1;
-  margin-top: 270px;
-  margin-left: 470px;
+  margin-top: 280px;
+  margin-left: 480px;
 }
 
 .contenido h1 {
@@ -51,7 +51,7 @@ body {
   line-height: 18px;
 }
 
-.apps {
+.aplicacion {
   display: flex;
   flex-direction: column;
   width: 32px;
@@ -66,7 +66,7 @@ body {
   height: 32px;
 }
 
-.lista {
+.primeralista {
   display: flex;
   justify-content: space-around;
   width: 1310px;
