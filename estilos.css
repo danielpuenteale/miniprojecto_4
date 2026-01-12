@@ -32,11 +32,12 @@ main {
 .mainp {
   text-align: center;
   margin: 10px;
+  margin-left: -100px;
 }
 
-.texto2 {
+.mainptexto2 {
   text-align: center;
-  margin-left: -215px;
+  margin-left: -333px;
 }
 
 .imagenes {
