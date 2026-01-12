@@ -1,3 +1,95 @@
-* {
-  border: red solid 1px;
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.pagina {
+  display: flex;
+  background-image: url(images_10/fondo.png);
+  background-size: cover;
+  background-position: center;
+  width: 1440px;
+  height: 1024px;
+}
+
+.contenido {
+  width: 794px;
+  height: 414px;
+  opacity: 1;
+  margin-top: 270px;
+  margin-left: 470px;
+}
+
+.contenido h1 {
+  width: 794px;
+  height: 152px;
+  color: white;
+  font-family: Roboto Mono;
+  text-align: right;
+  font-size: 60px;
+  line-height: 76px;
+}
+
+.contenido p {
+  width: 794px;
+  height: 132px;
+  color: white;
+  font-family: Roboto Mono;
+  font-weight: 400px;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: right;
+}
+
+.contenido button {
+  margin-left: 535px;
+  width: 260px;
+  height: 66px;
+  border-radius: 40px;
+  font-family: Roboto Mono;
+  font-size: 22px;
+  line-height: 18px;
+}
+
+.apps {
+  display: flex;
+  flex-direction: column;
+  width: 32px;
+  height: 271px;
+  gap: 48px;
+  margin-top: 376px;
+  margin-left: 66px;
+}
+
+.apps img {
+  width: 32px;
+  height: 32px;
+}
+
+.lista {
+  display: flex;
+  justify-content: space-around;
+  width: 1310px;
+  height: 96px;
+  gap: 110px;
+  margin-top: 864px;
+  margin-left: -1310px;
+  padding-top: 24px;
+  padding-right: 20px;
+  padding-bottom: 24px;
+  padding-left: 20px;
+}
+.barra {
+  border-left: white solid 6px;
+  height: 48px;
+  margin-left: 15px;
+}
+
+.barra p {
+  color: white;
+  font-family: Roboto Mono;
+  font-weight: 400px;
+  font-size: 18px;
+  margin-left: 20px;
+  margin-top: 0px;
 }
